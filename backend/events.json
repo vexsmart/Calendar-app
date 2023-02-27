@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "title": "test",
+      "image": "http://test.com",
+      "date": "2023-02-03",
+      "description": "dfbdfhsfhfghdh",
+      "id": "548866df-0ede-4aac-8665-61c0e204111a"
+    }
+  ],
+  "users": [
+    {
+      "email": "test2@email.com",
+      "password": "$2a$12$MstZgxvOYlNVRSUe6EiKuuJFbZiKrcwzkl00Z2KHKSL3LAKABuW8y",
+      "id": "f49bbea3-2d39-4c2c-bdaf-b47563ac83c4"
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$sJMWGt.9AiXFSKDtBLUxSOWAnKa6R53OfrnJLEIuVFkFe6ax9ai8a",
+      "id": "f3cec7b2-f15f-41df-b1ea-3590f159d26f"
+    }
+  ]
+}
